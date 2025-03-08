@@ -20,5 +20,5 @@ The **Parking Space Detection System** is designed to automatically detect and i
 
 ### AA Lot North
 <div style="display: flex; justify-content: space-between;">
-  <img width="200" alt="AA Lot North 1" src="ttps://github.com/user-attachments/assets/d2e5a3bc-15eb-468f-a970-143003fbc2d3">
+  <img width="200" alt="AA Lot North 1" src="https://github.com/user-attachments/assets/d2e5a3bc-15eb-468f-a970-143003fbc2d3">
 </div>
