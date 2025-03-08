@@ -1,3 +1,5 @@
+# Parking Space Detection Service
+
 The **Parking Space Detection System** is designed to automatically detect and identify available parking spaces using images from security cameras. The system uses a pre-trained Mask R-CNN model to detect vehicles and match them to predefined parking spaces. This can help optimize parking space usage and provide real-time data on available spots.
 
 ## Features
